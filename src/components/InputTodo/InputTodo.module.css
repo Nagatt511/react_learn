@@ -1,0 +1,17 @@
+.container_form_area{
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+}
+.container_form {
+    text-align: left;
+    display: flex;
+    justify-content: center;
+}
+.container_form_input{
+    width: 100%;
+    padding: 5px 10px;
+}
+.container_form_input_label{
+    padding: 10px 0 10px 0  ;
+}
